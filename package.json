@@ -1,0 +1,16 @@
+{
+  "name": "vuepress_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/plugin-pagination": "^1.0.0-alpha.10",
+    "vuepress": "^1.0.0-alpha.9"
+  }
+}
